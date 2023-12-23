@@ -1,8 +1,6 @@
 # Library Management System
 
-## Graphical User Interface for a Database
-
 ## What I Learned:
-  - tkinter library for simple design
+  - tkinter library for graphical user interface design
   - SQLite3 integration with Python
-  - Views, Triggers, Nested Queries
+  - Views, Triggers, Complex Nested Queries
